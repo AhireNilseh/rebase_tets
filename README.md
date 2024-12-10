@@ -1,2 +1,2 @@
 # rebase_tets_Practice
-testing git merge and rebase_O1
+testing git merge and rebase_O1_O2
